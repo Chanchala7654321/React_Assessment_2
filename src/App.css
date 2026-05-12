@@ -1,0 +1,30 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 50%;
+  margin: 60px auto;
+  background: rgb(119, 33, 33);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input {
+  width: 98%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+.userCard {
+  margin-top: 10px;
+  padding: 10px;
+  background: #bfc3c9;
+  border-radius: 5px;
+}
